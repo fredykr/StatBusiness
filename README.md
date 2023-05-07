@@ -2,7 +2,7 @@
 
 Statistics for Business Project Pacmann - Studi Pengaruh Angkatan Kerja terhadap Pengangguran Terbuka
 
-A. Background 
+A. Background
 Melakukan analisa atau Exploratory Data Analysis (EDA) terhadap suatu data Angkatan Kerja & Pengangguran Terbuka Provinsi Jawa Barat
 
 B. Tools
